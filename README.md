@@ -20,6 +20,7 @@ The dataset used for this dashboard is titled `HouseData.xlsx`, which includes:
 
 ## How to Access the Dashboard
 1. Download the `.twbx` (Tableau Workbook) file from this repository.
+2. Or donwload from the link below:
    Link - https://public.tableau.com/app/profile/madan.maskara/viz/WashingtonHouseDashboard/Dashboard1?publish=yes
 3. Open the file using Tableau Desktop or Tableau Public.
 
